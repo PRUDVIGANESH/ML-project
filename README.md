@@ -1,4 +1,4 @@
-#Youtube Transcripter
+
 🎥 YouTube Transcript to Detailed Notes Converter :
 A Streamlit web app that transforms YouTube video transcripts into structured, point‑wise notes using Google’s Gemini AI.
 
@@ -24,8 +24,8 @@ Key Libraries:
 - os – for environment handling
 
  How It Works
-1️⃣ Paste a YouTube link in the Streamlit app.
-2️⃣ The app extracts the video ID and shows its thumbnail.
-3️⃣ Transcript retrieval: It tries manual captions → English auto captions → Hindi/Spanish/French captions.
-4️⃣ The transcript is sent to Gemini AI with a smart prompt designed for technical summaries.
-5️⃣ You instantly get structured, bullet‑point notes from the video content.
+- Paste a YouTube link in the Streamlit app.
+- The app extracts the video ID and shows its thumbnail.
+- Transcript retrieval: It tries manual captions → English auto captions → Hindi/Spanish/French captions.
+- The transcript is sent to Gemini AI with a smart prompt designed for technical summaries.
+- You instantly get structured, bullet‑point notes from the video content.
